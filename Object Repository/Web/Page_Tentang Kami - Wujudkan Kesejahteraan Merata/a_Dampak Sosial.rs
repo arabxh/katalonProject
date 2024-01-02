@@ -1,0 +1,139 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<WebElementEntity>
+   <description></description>
+   <name>a_Dampak Sosial</name>
+   <tag></tag>
+   <elementGuidId>aa24fe07-7ec4-40cc-afa5-4ab48ca98ed8</elementGuidId>
+   <selectorCollection>
+      <entry>
+         <key>XPATH</key>
+         <value>//div[@id='__next']/div/div[2]/header/div[2]/div/nav/ul/li[4]/a</value>
+      </entry>
+      <entry>
+         <key>CSS</key>
+         <value></value>
+      </entry>
+   </selectorCollection>
+   <selectorMethod>XPATH</selectorMethod>
+   <useRalativeImagePath>true</useRalativeImagePath>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>tag</name>
+      <type>Main</type>
+      <value>a</value>
+      <webElementGuid>cfb9c106-8572-40a9-a258-8a7d524e8aa4</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>class</name>
+      <type>Main</type>
+      <value>text-white </value>
+      <webElementGuid>d87c7f27-b41b-46a4-a19c-e1713f3f4439</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>href</name>
+      <type>Main</type>
+      <value>/dampak-sosial/</value>
+      <webElementGuid>6d8b3568-9eff-4fb3-8d2b-cd31ffa834ed</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>text</name>
+      <type>Main</type>
+      <value>Dampak Sosial</value>
+      <webElementGuid>c7c1c50a-1d73-408f-87b0-409481ddbd4a</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath</name>
+      <type>Main</type>
+      <value>id(&quot;__next&quot;)/div[@class=&quot;relative w-screen antialiased __variable_241a51 __variable_43c742 font-sans&quot;]/div[@class=&quot;absolute top-0 z-10&quot;]/header[@class=&quot;sticky top-0 z-50 w-screen bg-transparent fadeInDown transition-all duration-1000&quot;]/div[@class=&quot;side-padding relative z-50 flex max-h-[120px] items-center justify-between py-10 text-white mobile:pb-4 tablet:pb-8&quot;]/div[1]/nav[@class=&quot;mx-4 flex&quot;]/ul[@class=&quot;flex flex-wrap items-center gap-[32px] gap-y-10 text-14 font-medium leading-6 laptop:text-16 desktop:gap-[72px]&quot;]/li[@class=&quot;group/menu relative border-white py-2 hover:border-b&quot;]/a[@class=&quot;text-white&quot;]</value>
+      <webElementGuid>54fd51a4-9273-4873-b536-f7a547bdef37</webElementGuid>
+   </webElementProperties>
+   <webElementXpaths>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:idRelative</name>
+      <type>Main</type>
+      <value>//div[@id='__next']/div/div[2]/header/div[2]/div/nav/ul/li[4]/a</value>
+      <webElementGuid>1b79c062-7675-4121-b95a-0397463e0aff</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:link</name>
+      <type>Main</type>
+      <value>//a[contains(text(),'Dampak Sosial')]</value>
+      <webElementGuid>6b3fe136-9c8e-45ee-9a17-21ec3d3cd826</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='Tentang Kami'])[1]/following::a[1]</value>
+      <webElementGuid>c696d82e-3bb9-4507-a5fe-339a5c2980fc</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='Credit Decision Engine'])[1]/following::a[2]</value>
+      <webElementGuid>debc1adf-c9b8-4603-af25-a63c40348180</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='Karir'])[1]/preceding::a[1]</value>
+      <webElementGuid>b33ed8ba-9496-4eb7-88ff-7ddbebc9bb57</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='Blog'])[1]/preceding::a[2]</value>
+      <webElementGuid>d4ebf004-73e8-466f-bf61-10b1b7d33eab</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>//*/text()[normalize-space(.)='Dampak Sosial']/parent::*</value>
+      <webElementGuid>976269ae-2a4b-4a8c-a7bf-2aa4a2827b51</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:href</name>
+      <type>Main</type>
+      <value>//a[contains(@href, '/dampak-sosial/')]</value>
+      <webElementGuid>a8d52150-6711-464e-ab50-bd2bdd2b41dd</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:position</name>
+      <type>Main</type>
+      <value>//li[4]/a</value>
+      <webElementGuid>e9bb5d4e-c108-47c6-a5ef-2b926d92b728</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:customAttributes</name>
+      <type>Main</type>
+      <value>//a[@href = '/dampak-sosial/' and (text() = 'Dampak Sosial' or . = 'Dampak Sosial')]</value>
+      <webElementGuid>b103c0b3-930a-43a7-9b48-81de36452e1f</webElementGuid>
+   </webElementXpaths>
+</WebElementEntity>

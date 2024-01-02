@@ -1,0 +1,91 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<WebElementEntity>
+   <description></description>
+   <name>ul_English_slider animated</name>
+   <tag></tag>
+   <elementGuidId>22c8692e-2685-4a4c-ad55-f251c0d1acc2</elementGuidId>
+   <selectorCollection>
+      <entry>
+         <key>XPATH</key>
+         <value>//div[@id='hero-carousel']/div/div/div/div/ul</value>
+      </entry>
+      <entry>
+         <key>CSS</key>
+         <value>ul.slider.animated</value>
+      </entry>
+   </selectorCollection>
+   <selectorMethod>XPATH</selectorMethod>
+   <useRalativeImagePath>true</useRalativeImagePath>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>tag</name>
+      <type>Main</type>
+      <value>ul</value>
+      <webElementGuid>0c4aa873-dd7c-46b9-a13b-9c3b0c258adb</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>class</name>
+      <type>Main</type>
+      <value>slider animated</value>
+      <webElementGuid>87008439-0828-46d1-8775-1452d13a1f36</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath</name>
+      <type>Main</type>
+      <value>id(&quot;hero-carousel&quot;)/div[@class=&quot;relative w-screen&quot;]/div[@class=&quot;carousel-root&quot;]/div[@class=&quot;carousel carousel-slider&quot;]/div[@class=&quot;slider-wrapper axis-horizontal&quot;]/ul[@class=&quot;slider animated&quot;]</value>
+      <webElementGuid>c1632ff2-f4b0-4c31-a2d5-2385bacd3ab0</webElementGuid>
+   </webElementProperties>
+   <webElementXpaths>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:idRelative</name>
+      <type>Main</type>
+      <value>//div[@id='hero-carousel']/div/div/div/div/ul</value>
+      <webElementGuid>a0ca1ad9-6ace-4b6b-8546-8f3a730b812a</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='English'])[1]/following::ul[2]</value>
+      <webElementGuid>87cdae67-be10-4c17-a6e8-d11a76da1e6f</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='Indonesia'])[1]/following::ul[2]</value>
+      <webElementGuid>01114996-e189-431e-984d-c258dbf73872</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='/'])[1]/preceding::ul[1]</value>
+      <webElementGuid>a5857480-73a6-40ec-a2de-f64e3d497327</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='Mempersiapkan keberlanjutan bersama Amartha'])[1]/preceding::ul[1]</value>
+      <webElementGuid>6c2671ec-c2ad-469e-ac60-9327be91b4f3</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:position</name>
+      <type>Main</type>
+      <value>//div/div/div/div/div/ul</value>
+      <webElementGuid>2922faab-7397-4d54-aded-d8734c8a0231</webElementGuid>
+   </webElementXpaths>
+</WebElementEntity>
